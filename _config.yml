@@ -6,11 +6,11 @@ description: The place to learn about info from the leading developer communitie
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Anywhere and Everywhere
+street_address: 
 city: 
 state: 
 zip_code: 
-country: Israel
+country: 
 phone: 
 
 # homepage tiles
@@ -18,14 +18,9 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
 facebook_url:
 github_url: https://gitlab.com/communitytlv
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
 linkedin_url: https://www.linkedin.com/in/communityTLV
-pinterest_url:
 discord_url: https://discord.gg/fV4cMKQ
 twitter_url: https://twitter.com/devrel_IL
 # build settings

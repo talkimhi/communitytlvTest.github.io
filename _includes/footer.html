@@ -24,39 +24,25 @@
 		<section class="split">
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="#">{{ site.email }}</a>
+					<a href="#contact"><span class="icon alt fa-envelope"></span>
+					<h3>Contact Us</h3>
+					</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
+					<a href="{{ site.discord_url }}" target="_blank"><span class="icon alt fa-comment"></span>
+					<h3>Discord</h3>
+					<span>{{ site.discord }}</span></a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
+					<a href="{{ site.twitter_url }}" target="_blank"><span class="icon alt fa-twitter"></span>
+					<h3>Twitter</h3>
 					<span>
-					{% if site.street_address %}
-					    {{ site.street_address }}<br />
-					{% endif %}
-					{% if site.city %}
-					    {{ site.city }},
-					{% endif %}
-					{% if site.state %}
-					    {{ site.state }} 
-					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
-					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
-					{% endif %}
-					</span>
+						{{ site.twitter }}
+					</span></a>
 				</div>
 			</section>
 		</section>
