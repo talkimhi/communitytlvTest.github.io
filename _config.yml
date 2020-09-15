@@ -25,6 +25,8 @@ discord_url: https://discord.gg/fV4cMKQ
 twitter_url: https://twitter.com/devrel_IL
 # build settings
 markdown: kramdown
+kramdown:
+  input: GFM      
 
 sass:
   style: compressed
