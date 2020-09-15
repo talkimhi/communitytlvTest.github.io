@@ -1,8 +1,8 @@
 # site settings
 title: TLV Developer Community
-subtitle: by HTML5 UP
+subtitle: by the Community for the Community
 email: cloudnativeisrael@gmail.com
-description: The place to learn about info from the leading developer communities in TLV.
+description: The place to get info about the leading dev communities in TLV.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
