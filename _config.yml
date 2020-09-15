@@ -23,8 +23,14 @@ github_url: https://gitlab.com/communitytlv
 linkedin_url: https://www.linkedin.com/in/communityTLV
 discord_url: https://discord.gg/fV4cMKQ
 twitter_url: https://twitter.com/devrel_IL
-# build settings
+devopsdays_url: https://devopsdaystlv.com
+cloudnative_url: https://cloudnativeisrael.com
+statscraft_url: http://statscraft.org.il
+devseccon_url: https://devseccon.com
+
 markdown: kramdown
+kramdown:
+  input: GFM      
 
 sass:
   style: compressed
