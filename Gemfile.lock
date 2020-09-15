@@ -69,6 +69,8 @@ DEPENDENCIES
   bundler (~> 2.3.0)
   forty_jekyll_theme!
   jekyll (~> 4.0)
+  github-pages (>= 204)
+
 
 BUNDLED WITH
    2.1.4
