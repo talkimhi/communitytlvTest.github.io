@@ -42,15 +42,7 @@
 					<h3>Twitter</h3>
 					<span>
 						{{ site.twitter }}
-					</span></a>
-					<section>
-						<div class="contact-method">
-							<a href="{{ site.twitter_url }}" target="_blank"><span class="icon alt fa-twitter"></span>
-							<h3>Twitter</h3>
-							<span>
-								{{ site.twitter }}
-							</span></a>
-				</div>
+					</span></a>				
 			</section>
 		</section>
 	</div>
@@ -59,38 +51,32 @@
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
+			<div class="row">
+				<h5>Brought to you by:</h5>
+					<p><a href="{{ site.devopsdays_url }}" target="_blank"><img src="assets/images/devopsdays-SQ.png" width="180"></a>&nbsp;&nbsp;<a href="{{ site.statscraft_url }}" target="_blank"><img src="assets/images/statscraft-SQ.png" width="180">&nbsp;&nbsp;<a href="{{ site.cloudnative_url }}" target="_blank"><img src="assets/images/cloudnative-SQ.png" width="180">&nbsp;&nbsp;<a href="{{ site.devseccon_url }}" target="_blank"><img src="assets/images/devseccon-SQ.png" width="180"></p>
+			</div>
 			<ul class="icons">
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
-				{% if site.googleplus_url %}
-				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
-				{% endif %}
 				{% if site.facebook_url %}
 				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
 				{% endif %}
-				{% if site.instagram_url %}
-				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-				{% endif %}
 				{% if site.pinterest_url %}
 				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
-				{% endif %}
-				{% if site.500px_url %}
-				<li><a href="{{ site.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
-				{% endif %}
-				{% if site.gitlab_url %}
-				<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
 				{% endif %}
 				{% if site.github_url %}
 				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
 				{% endif %}
 				{% if site.slack_url %}
-				<li><a href="{{ site.discord_url }}" class="icon alt fa-discord" target="_blank"><span class="label">Discord</span></a></li>
+				<li><a href="{{ site.discord_url }}" class="icon alt fa-comment" target="_blank"><span class="label">Discord</span></a></li>
 				{% endif %}
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
+				
 			</ul>
+			
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 				<li>Big thanks for the awesome design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
