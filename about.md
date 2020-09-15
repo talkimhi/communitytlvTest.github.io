@@ -66,7 +66,7 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/pic10-2.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/pic15.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
