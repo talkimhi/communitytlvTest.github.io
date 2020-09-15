@@ -31,8 +31,6 @@ nav-menu: true
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
-
-
 <!-- Image -->
 <h3>Image</h3>
 
