@@ -43,7 +43,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>StatsCraft</h3>
+					<h3>STATSCRAFT</h3>
 				</header>
 				<p><a href="https://www.statscraft.org.il/" target="_blank">StatsCraft</a> is the foremost conference in Tel Aviv about making monitoring easier, more accessible and more productive.<br/>Monitoring is crucial for detecting problems, optimizing performance, capacity planning, improving user experience and business impact... Yet in many companies, monitoring is an afterthought leading companies to miss out on the value of the data they collected. We often hear that "monitoring is hard" - and it can be, unless we do something about it.</p>
 				<p><a href="https://twitter.com/statscraft" target="_blank"><span class="icon alt fa-twitter"></span></a>&nbsp;<a href="https://www.facebook.com/statscraft.il" target="_blank"><span class="icon alt fa-facebook"></span></a>&nbsp;<a href="https://www.linkedin.com/company/19015816" target="_blank"><span class="icon alt fa-linkedin"></span></a></p>
