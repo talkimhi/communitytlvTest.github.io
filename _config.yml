@@ -3,7 +3,7 @@ title: TLV Developer Community
 subtitle: by HTML5 UP
 email: cloudnativeisrael@gmail.com
 description: The place to learn about info from the leading developer communities in TLV.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
