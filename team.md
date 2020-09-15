@@ -43,6 +43,9 @@ nav-menu: true
 
        <div class="3u"><span class="image fit"><img src="{% link assets/images/jeremy.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://twitter.com/jphess2" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/jeremyphess/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/yeshess" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
+     </div>
+    <div class="row 25% uniform">
+
 		<!-- Break -->
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/gil.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://twitter.com/Heathenaspargus" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/gilzellner/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/gilzellner/sessions-and-bio" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
@@ -51,7 +54,11 @@ nav-menu: true
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/andrei.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://twitter.com/burdandrei" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/burdandrei/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/burdandrei" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
         <div class="3u"><span class="image fit"><img src="{% link assets/images/erik.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://twitter.com/erikzaadi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/erikzaadi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/erikzaadi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+    </div>
+
 		<!-- Break -->
+    <div class="row 25% uniform">
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/elizabeth.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://www.linkedin.com/in/elizabeth-tsirelson/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/tal.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://twitter.com/talkimhi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/talkimhi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/talkimhi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
@@ -59,8 +66,12 @@ nav-menu: true
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/hila.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://www.linkedin.com/in/hila-fish-863949a/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/hilafish" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
         <div class="3u"><span class="image fit"><img src="{% link assets/images/nati.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://twitter.com/nocoot" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/natict/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/natict" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+    </div>
 
         <!-- Break -->
+    
+    <div class="row 25% uniform">
+
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/dan.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://www.linkedin.com/in/dan-yelovitch-15b92036/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/keren.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://twitter.com/keren404" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/keren-barzelai/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
@@ -69,8 +80,10 @@ nav-menu: true
 
         <div class="3u"><span class="image fit"><img src="{% link assets/images/dotan.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://twitter.com/horovits" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/horovits/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/horovits" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
-
+    </div>
         <!-- Break -->
+    <div class="row 25% uniform">
+
         <div class="3u"><span class="image fit"><img src="{% link assets/images/itay.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://twitter.com/itaysk" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/itaysk/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/itaysk" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/ofer.jpg %}" alt="" /></span><ul class="icons"><li><a href="https://twitter.com/oschreib" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/oferschreiber/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/oschreib" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
