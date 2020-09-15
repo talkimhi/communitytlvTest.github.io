@@ -27,32 +27,33 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Elements</h2>
+<h2 id="elements">THE TEAM</h2>
 <div class="row 200%">
-	<div class="6u 12u$(medium)">
+	<div class="12u 12u$(small)">
 
 <!-- Image -->
-<h3>The Team</h3>
-
 <div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/shar.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/avishai.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/julia.jpg %}" alt="" /></span></div>
+	<div class="row 25% uniform">
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/shar.jpg %}" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/avishai.jpg %}" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/julia.jpg %}" alt="" /></span></div>
+       <div class="3u"><span class="image fit"><img src="{% link assets/images/jeremy.jpg %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/dan.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/dan.jpg %}" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/andrei.jpg %}" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/elizabeth.jpg %}" alt="" /></span></div>
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/erik.jpg %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/dan.jpg %}" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/andrei.jpg %}" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/elizabeth.jpg %}" alt="" /></span></div>
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/jeremy.jpg %}" alt="" /></span></div>
 	</div>
-</div>
+    </div>
 
-<h4>Left &amp; Right</h4>
+<!-- <h4>Left &amp; Right</h4>
 <p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p> -->
 
 <!-- Box -->
 <h3>Box</h3>
