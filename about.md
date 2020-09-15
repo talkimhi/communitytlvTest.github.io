@@ -95,7 +95,7 @@ nav-menu: true
 				<p><a href="https://twitter.com/devrel_IL" target="_blank"><span class="icon alt fa-twitter"></span></a>&nbsp;<a href="https://www.facebook.com/groups/DevRel.IL" target="_blank"><span class="icon alt fa-facebook"></span></a></p>
 			</div>
 		</div>
+		</section>
 	</section>
 	
 
-</div>
