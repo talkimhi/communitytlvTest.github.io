@@ -1,7 +1,7 @@
 ---
 title: About Community Summit TLV
 layout: landing
-description: 'INTRODUCING<br />COMMUNITY SUMMIT TLV 2020'
+description: 'INTRODUCING<br />COMMUNITY SUMMIT TLV 2020 | DECEMBER 17, 2020'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -15,9 +15,15 @@ nav-menu: true
 		<header class="major">
 			<h2>Our Communities</h2>
 		</header>
-		<p>Community Summit TLV was born out of the "new normal". While we initially made the decision to opt out of holding our community events this, namely DevOpsDatys Tel Aviv, Statscraft, Cloud Native Day Tel Aviv, and DevSecCon Tel Aviv, we realized we simply couldn't go another whole year without seeing our community friends.  So we decided to create Community Summit TLV 2020, a virtual event that will aggregate content from these excellent communities into an awesome one-day event.</p>
-		<p><strong>DOES THE WORLD REALLY NEED ANOTHER VIRTUAL EVENT?!</strong></p>
+		<p>Community Summit TLV was born out of the "new normal". While we initially made the decision to opt out of holding our community events this, namely<strong><a href="{{ site.devopsdays_url }}" target="_blank"> DevOpsDays Tel Aviv</a>, <a href="{{ site.statscraft_url }}" target="_blank">StatsCraft</a>, <a href="{{ site.cloudnative_url }}" target="_blank"> Cloud Native Day Tel Aviv,</a><a href="{{ site.devseccon_url }}" target="_blank"> and DevSecCon Tel Aviv</a></strong>, we realized we simply couldn't go another whole year without seeing our community friends.  So we decided to create Community Summit TLV 2020, a virtual event that will aggregate content from these excellent communities into an awesome one-day event.</p>
+		<p><strong>DOES THE WORLD REALLY NEED ANOTHER VIRTUAL EVENT?!</strong> OF COURSE WE DO.</p>		
+		<ul class="actions">
+			<li><a href="#" class="button special">REGISTER HERE</a></li>
+		</ul>
 	</div>
+
+
+
 </section>
 
 <!-- Two -->
