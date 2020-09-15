@@ -20,7 +20,7 @@ In order to bring the community together, even if it's just in a virtual capacit
 <h4>~/ talk formats</h4>
 This year’s talk formats include:
 <ul>
-<li><strong>KEYNOTE.</strong> 40-Minute deep dives & advanced technical talks></li>
+<li><strong>KEYNOTE.</strong> 40-Minute deep dives & advanced technical talks</li>
 <li><strong>IGNITE.</strong> A 5-Minute Talk with 20 slides that auto-progresses (for the adrenaline junkies among you).</li>
 </ul>
  
