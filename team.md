@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Team
+description: 'THE TEAM BEHIND THE AWESOME COMMUNITY'
+image: assets/images/pic02.jpg
 nav-menu: true
 ---
 

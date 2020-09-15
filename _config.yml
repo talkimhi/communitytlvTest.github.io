@@ -3,7 +3,7 @@ title: TLV Developer Community
 subtitle: by the Community for the Community
 email: cloudnativeisrael@gmail.com
 description: The place to get info about the leading dev communities in TLV.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
@@ -27,6 +27,8 @@ devopsdays_url: https://devopsdaystlv.com
 cloudnative_url: https://cloudnativeisrael.com
 statscraft_url: http://statscraft.org.il
 devseccon_url: https://devseccon.com
+code-conduct_url: /2020-09-15-code-of-conduct.md
+
 
 markdown: kramdown
 kramdown:
