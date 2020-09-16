@@ -12,7 +12,8 @@ This site was setup to aggregate information from all of these communities, but 
 
 # Issues
 
-If you would like to report an issure or problem, you can contact us through the form on the site, and we will be sure to get in touch with.
+If you would like to report an issure or problem, you can [contact us](https://communitytlv.github.io/#contact) through the form on the site, and we will be sure to get back to you as soon as we can. You are also welcome to message one of the community admins, moderators or event organizers in the Discord community.
+
 
 # Code of Conduct
 We expect all the participants in our community to abide by our code of conduct, and treat all of the community members with respect and kindness.  We will not tolerate harrassment of any kind.
