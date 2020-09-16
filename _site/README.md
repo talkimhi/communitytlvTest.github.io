@@ -7,7 +7,7 @@ Welcome to the Tel Aviv community site that supports the events [DevOpsDaysTLV](
 
 # What You'll Find
 
-This site was setup to aggregate information from all of these communities, but youa are also welcome to join the newly launched [Discord Server]({{ site.discord_url }}) for our community to chat with your peers from the local community.  If you are planning on visiting in Tel Aviv, or attending one of these events, this would be a great place to get to know folks from the local community.
+This site was setup to aggregate information from all of these communities, but youa are also welcome to join the newly launched [Discord Server](https://discord.gg/fV4cMKQ) for our community to chat with your peers from the local community.  If you are planning on visiting in Tel Aviv, or attending one of these events, this would be a great place to get to know folks from the local community.
 
 
 # Issues
