@@ -3,7 +3,7 @@
 
 
 # DEV Community TLV
-Welcome to the Tel Aviv community site that supports the events [DevOpsDaysTLV]({{ site.devopsdays_url }}), [StatsCraft]({{ site.statscraft_url }}), [Cloud Native Day Tel Aviv]({{ site.cloudnative_url }}), [DevSecCon Tel Aviv]({{ site.devseccon_url }}), and [DevRel_IL](https://www.meetup.com/DevRel/)
+Welcome to the Tel Aviv community site that supports the events [DevOpsDaysTLV](https://devopsdaystlv.com), [StatsCraft](http://statscraft.org.il), [Cloud Native Day Tel Aviv](https://cloudnativeisrael.com), [DevSecCon Tel Aviv](https://devseccon.com), and [DevRel_IL](https://www.meetup.com/DevRel/)
 
 # What You'll Find
 
@@ -19,7 +19,7 @@ We expect all the participants in our community to abide by our code of conduct,
 
 
 
-# Credits
+### Credits
 
 Big thanks to the awesome "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
