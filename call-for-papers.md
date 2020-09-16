@@ -56,4 +56,3 @@ This year’s talk formats include:
 <a id="sponsor"></a>
 <h4>Sponsor the Event</h4>
 <p>There is only <strong>ONE SPONSORSHIP TIER</strong> at $500USD a session, where the content will be required to be approved by the moderation team <strong>(˜50 slots available)</strong>.</p>
-</section>
