@@ -3,6 +3,8 @@ layout: post
 title: Code of Conduct
 description: Code of Conduct
 image: assets/images/pic02.jpg
+permalink: /:year/:month/:day/:title:output_ext
+
 ---
 
 ANTI-HARASSMENT POLICY
