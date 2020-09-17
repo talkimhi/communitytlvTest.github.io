@@ -1,73 +1,27 @@
-# Forty - Jekyll Theme
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+![DEV Community TLV](assets/images/pic02.jpg "DEV Community TLV")
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
 
-# How to Use
+# DEV Community TLV
+Welcome to the Tel Aviv community site that supports the events [DevOpsDaysTLV](https://devopsdaystlv.com), [StatsCraft](http://statscraft.org.il), [Cloud Native Day Tel Aviv](https://cloudnativeisrael.com), [DevSecCon Tel Aviv](https://devseccon.com), and [DevRel_IL](https://www.meetup.com/DevRel/)
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
-and [creating pages](https://jekyllrb.com/docs/pages/).
+# What You'll Find
 
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
-- **GitHub**: Fork this repository and create a branch named `gh-pages`, then start editing the `_config.yml` file.
+This site was setup to aggregate information from all of these communities, but youa are also welcome to join the newly launched [Discord Server](https://discord.gg/fV4cMKQ) for our community to chat with your peers from the local community.  If you are planning on visiting in Tel Aviv, or attending one of these events, this would be a great place to get to know folks from the local community.
 
-# Added Features
-
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
-* Set **featured images** in front matter.
 
 # Issues
 
-If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/forty-jekyll-theme) and I will be more than happy to help!
-
-Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/forty-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/forty-jekyll-theme@incoming.gitlab.com).
-
-The GitHub repository is simply a mirror of the GitLab repository.
-
-# Credits
-
-Original README from HTML5 UP:
-
-```
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+If you would like to report an issure or problem, you can [contact us](https://communitytlv.github.io/#contact) through the form on the site, and we will be sure to get back to you as soon as we can. You are also welcome to message one of the community admins, moderators or event organizers in the Discord community.
 
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+# Code of Conduct
+We expect all the participants in our community to abide by our code of conduct, and treat all of the community members with respect and kindness.  We will not tolerate harrassment of any kind.
 
 
-Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+### Credits
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		background-size polyfill (github.com/louisremi)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
-```
+Big thanks to the awesome "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).

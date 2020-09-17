@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Team
+description: 'THE TEAM BEHIND THE AWESOME COMMUNITY'
+image: assets/images/pic02.jpg
 nav-menu: true
 ---
 
@@ -16,49 +18,85 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">By the Community for the Community</h2>
-<p>These events are all volunteer-led, by a dedicated team of passionate community builders, </p>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>	
+
+<div class="box">
+	<p>These events are all volunteer-led, by a dedicated team of passionate community builders, looking to bring people together for knowledge sharing, problem solving, learning, and the fun of networking and meeting new people.  We all have day jobs, and chop wood and carry water in our spare time to be able to make this happen. We're always looking for more volunteers, so <a href="#contact">reach out</a> if you are interested in joining us.</p>
 </div>
 
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Elements</h2>
+<h2 id="elements">THE TEAM</h2>
 <div class="row 200%">
-	<div class="6u 12u$(medium)">
+	<div class="12u 12u$(small)">
 
 <!-- Image -->
-<h3>The Team</h3>
-
 <div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/shar.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/avishai.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/julia.jpg %}" alt="" /></span></div>
+	<div class="row 25% uniform">
+
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/shar.jpg %}" alt="" /></span>
+        <ul class="icons">SHARONE ZITZMAN | SNYK <br/><li><a href="https://twitter.com/shar1z" target="_blank" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/sharonez/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/shar1z" target="_blank" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/avishai.jpg %}" alt="" /></span><ul class="icons">AVISHAI ISH-SHALOM | SCYLLADB <br/><li><a href="https://twitter.com/nukemberg" target="_blank" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/nukemberg/"  target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/nukemberg" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/julia.jpg %}" alt="" /></span><ul class="icons">JULIA VOLVOSKY | LAWGEEX <br/><li><a href="https://twitter.com/JuliaVolvo" target="_blank"  class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/julia-shub-72418842/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/shar1z" target="_blank" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+       <div class="3u"><span class="image fit"><img src="{% link assets/images/jeremy.jpg %}" alt="" /></span><ul class="icons">JEREMY HESS | CLOUDSHARE <br/><li><a href="https://twitter.com/jphess2" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/jeremyphess/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/yeshess" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+     </div>
+    <div class="row 25% uniform">
+
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/dan.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/gil.jpg %}" alt="" /></span><ul class="icons">GIL ZELLNER | APPSFLYER <br/><li><a href="https://twitter.com/Heathenaspargus" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/gilzellner/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/gilzellner/sessions-and-bio" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/sam.jpg %}" alt="" /></span><ul class="icons">SAM HEPBURN | SNYK <br/><li><a href="https://twitter.com/SammyHep" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/sammyhepburn/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
+
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/andrei.jpg %}" alt="" /></span><ul class="icons">ANDREI BURD | SEATGEEK <br/><li><a href="https://twitter.com/burdandrei" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/burdandrei/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/burdandrei" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/erik.jpg %}" alt="" /></span><ul class="icons"> ERIK ZAADI | SALTO <br/><li><a href="https://twitter.com/erikzaadi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/erikzaadi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/erikzaadi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+    </div>
+
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+    <div class="row 25% uniform">
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/elizabeth.jpg %}" alt="" /></span><ul class="icons"> ELIZABETH TSIRELSON | JOVIANX <br/><li><a href="https://www.linkedin.com/in/elizabeth-tsirelson/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
+
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/tal.jpg %}" alt="" /></span><ul class="icons">TAL KIMHI | BIG PANDA <br/><li><a href="https://twitter.com/talkimhi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/talkimhi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/talkimhi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/hila.jpg %}" alt="" /></span><ul class="icons">HILA FISH | PALO ALTO NETWORKS<br/><li><a href="https://www.linkedin.com/in/hila-fish-863949a/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/hilafish" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/nati.jpg %}" alt="" /></span><ul class="icons"> NATI COHEN | NaN <br/><li><a href="https://twitter.com/nocoot" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/natict/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/natict" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+    </div>
+
+        <!-- Break -->
+    
+    <div class="row 25% uniform">
+
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/dan.jpg %}" alt="" /></span><ul class="icons">DAN YELOVITCH | ZIPRECRUITER <br/><li><a href="https://www.linkedin.com/in/dan-yelovitch-15b92036/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
+
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/keren.jpg %}" alt="" /></span><ul class="icons">KEREN BARZELAI | MELIO PAYMENTS<br/><li><a href="https://twitter.com/keren404" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/keren-barzelai/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
+
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/robert.jpg %}" alt="" /></span><ul class="icons"> ROBERT BARRON | IBM <br/><li><a href="https://twitter.com/flyingbarron" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/flyingbarron/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/flyingbarron" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/dotan.jpg %}" alt="" /></span><ul class="icons">DOTAN HOROVITS | LOGZ.IO <br/><li><a href="https://twitter.com/horovits" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/horovits/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/horovits" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+    </div>
+        <!-- Break -->
+    <div class="row 25% uniform">
+
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/itay.jpg %}" alt="" /></span><ul class="icons">ITAY SHAKURY | AQUA SECURITY <br/><li><a href="https://twitter.com/itaysk" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/itaysk/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/itaysk" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/ofer.jpg %}" alt="" /></span><ul class="icons">OFER SCHREIBER | LOGZ.IO<br/><li><a href="https://twitter.com/oschreib" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/oferschreiber/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/oschreib" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/simon.jpg %}" alt="" /></span><ul class="icons">SIMON MAPLE | SNYK <br/><li><a href="https://twitter.com/sjmaple" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/simonmaple/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/sjmaple" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
+
+        <div class="3u"><span class="image fit"><img src="{% link assets/images/elena.jpg %}" alt="" /></span><ul class="icons">ELENA LEVI | APPSFLYER <br/><li><a href="https://twitter.com/elenalevii" target="_blank"  class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/elena-levi-data/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
 	</div>
-</div>
+    </div>
 
-<h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
 
-<!-- Box -->
-<h3>Box</h3>
-<div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
-</div>
+
+
 
 
 </div>
