@@ -7,7 +7,8 @@ permalink: /:title:output_ext
 
 ---
 
-ANTI-HARASSMENT POLICY
+## ANTI-HARASSMENT POLICY
+
 Devopsdays is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
@@ -22,7 +23,8 @@ Conference staff can be identified by distinct staff badges. Conference staff wi
 
 We expect participants to adhere to the code of conduct at all conference venues and conference-related social events.
 
-CODE OF CONDUCT
+## CODE OF CONDUCT
+
 I. I am an attendee at devopsdays, learning from and sharing with other devopsdays attendees in an effort to better myself and my industry. I co-create the experience with fellow attendees. I am prepared to give my energy, presence and sensitivity to creating the best possible experience for myself and others.
 
 II. I am coming to devopsdays to interact with people. I understand that imagery and language which is suggestive or derogatory will offend and make people uncomfortable. I also understand that people may have boundaries and sensibilities different from my own. I will accept without question when informed that something is offensive or unacceptable in the context of the devopsdays event.
