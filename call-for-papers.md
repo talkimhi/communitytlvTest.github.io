@@ -47,7 +47,7 @@ This year’s talk formats include:
 <li>No vendor pitches. We value vendors and sponsors, however we cannot accept a talk that appears to be a pitch for your product.</li>
 </ul>
 
-## Stay Tuned Call for Papers will be opening soon...
+#### Stay Tuned Call for Papers will be opening soon...
 Connect to the [TLV Community Discord](https://discord.gg/fV4cMKQ) for updates or subscribe to our newsletter.
 
 <!-- <ul class="actions">
