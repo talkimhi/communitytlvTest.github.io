@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Call for Papers
-description: Submit a talk to Community Summit TLV
+description: Submit a talk <br/>to Community Summit TLV
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
