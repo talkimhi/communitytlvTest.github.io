@@ -1,7 +1,7 @@
 ---
 title: About Community Summit TLV
 layout: landing
-description: 'INTRODUCING<br />COMMUNITY SUMMIT TLV 2020 | DECEMBER 17, 2020'
+description: 'INTRODUCING COMMUNITY SUMMIT TLV 2020 <br/> DECEMBER 17, 2020  <a href="https://www.eventbrite.com/e/community-summit-tlv-2020-tickets-122031594785" target="_blank" class="button special">REGISTER</a>'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -21,7 +21,7 @@ nav-menu: true
 		<p>We debated for some time whether the world needs another virtual event really - but we don't see any other format anytime soon, so we're going to try and keep it as fun, consumable, and light as possible - just to maintain our community connection, even if socially distanced.</p>	
 
 		<ul class="actions">
-			<li><a href="#" class="button special">REGISTER HERE</a></li>
+			<li><a href="https://www.eventbrite.com/e/community-summit-tlv-2020-tickets-122031594785" class="button default">REGISTER HERE</a></li>
 		</ul>
 
 		<h4 style="text-transform:uppercase; text-align: center;">Learn more about our community events </h4>
