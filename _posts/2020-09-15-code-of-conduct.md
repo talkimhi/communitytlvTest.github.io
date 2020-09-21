@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sponsor
-description: Sponsor the Event
+title: Code of Conduct
+description: We expect all community participants to abide by our code of conduct.
 image: assets/images/pic07.jpg
 permalink: /:title:output_ext
 
