@@ -14,8 +14,8 @@ country:
 phone: 
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-source: "pages", "posts" # accepts "posts" or "pages"
+tiles-count: 4
 
 # social settings
 facebook_url:
