@@ -1,7 +1,7 @@
 ---
 title: About Community Summit TLV
 layout: landing
-description: 'INTRODUCING<br />COMMUNITY SUMMIT TLV 2020 | DECEMBER 17, 2020'
+description: 'INTRODUCING COMMUNITY SUMMIT TLV 2020 <br/> DECEMBER 17, 2020'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -15,11 +15,16 @@ nav-menu: true
 		<header class="major">
 			<h2>Our Communities</h2>
 		</header>
-		<p>Community Summit TLV was born out of the "new normal". While we initially made the decision to opt out of holding our community events this, namely<strong><a href="{{ site.devopsdays_url }}" target="_blank"> DevOpsDays Tel Aviv</a>, <a href="{{ site.statscraft_url }}" target="_blank">StatsCraft</a>, <a href="{{ site.cloudnative_url }}" target="_blank"> Cloud Native Day Tel Aviv,</a><a href="{{ site.devseccon_url }}" target="_blank"> and DevSecCon Tel Aviv</a></strong>, we realized we simply couldn't go another whole year without seeing our community friends.  So we decided to create Community Summit TLV 2020, a virtual event that will aggregate content from these excellent communities into an awesome one-day event.</p>
-		<p><strong>DOES THE WORLD REALLY NEED ANOTHER VIRTUAL EVENT?!</strong> OF COURSE WE DO.</p>		
+		<p>Community Summit TLV was born out of the "new normal". While we initially made the decision to opt out of holding our community events this year, namely<strong><a href="{{ site.devopsdays_url }}" target="_blank"> DevOpsDays Tel Aviv</a>, <a href="{{ site.statscraft_url }}" target="_blank">StatsCraft</a>, <a href="{{ site.cloudnative_url }}" target="_blank"> Cloud Native Day Tel Aviv,</a><a href="{{ site.devseccon_url }}" target="_blank"> and DevSecCon Tel Aviv</a></strong>, we realized we simply couldn't go another whole year without seeing our community friends.  So we decided to create Community Summit TLV 2020, a <strong>virtual event</strong> that will aggregate content from these excellent communities into an awesome one-day event.</p>
+		<p> Like all of our community events, there will be an open call for papers, where the format of the day is going to be a keynote to represent each event (four total), and the rest of the day will be ignites to follow each keynote, covering topics in the event's usual scope.</p>
+
+		<p>We debated for some time whether the world needs another virtual event really - but we don't see any other format anytime soon, so we're going to try and keep it as fun, consumable, and light as possible - just to maintain our community connection, even if socially distanced.</p>	
+
 		<ul class="actions">
-			<li><a href="#" class="button special">REGISTER HERE</a></li>
+			<li><a href="https://www.eventbrite.com/e/community-summit-tlv-2020-tickets-122031594785" class="button default">REGISTER HERE</a></li>
 		</ul>
+
+		<h4 style="text-transform:uppercase; text-align: center;">Learn more about our community events </h4>
 	</div>
 
 

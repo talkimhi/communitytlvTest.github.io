@@ -1,10 +1,10 @@
 # site settings
 title: Developer Community TLV
 subtitle: by the Community for the Community
-email: cloudnativeisrael@gmail.com
+email: 
 description: The place to get info about the leading dev communities in TLV.
 baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://tlvcommunity.dev # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
@@ -14,12 +14,12 @@ country:
 phone: 
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: "pages" # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
 facebook_url:
-github_url: https://gitlab.com/communitytlv
+github_url: https://github.com/communitytlv
 linkedin_url: https://www.linkedin.com/in/communityTLV
 discord_url: https://discord.gg/fV4cMKQ
 twitter_url: https://twitter.com/devrel_IL
