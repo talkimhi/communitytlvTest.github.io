@@ -53,5 +53,7 @@ This year’s talk formats include:
 	<li><a href="https://www.papercall.io/community-summit-tlv-2020" target="_blank" class="button special">SUBMIT TALK</a></li>
 </ul> 
 
-## Connect to the [TLV Community Discord](https://discord.gg/fV4cMKQ) for updates or subscribe to our newsletter.
+~~~~~~~~~~~~~~
+
+#### Connect to the [TLV Community Discord](https://discord.gg/fV4cMKQ) for updates or subscribe to our newsletter.
 
