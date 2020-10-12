@@ -47,10 +47,11 @@ This year’s talk formats include:
 <li>No vendor pitches. We value vendors and sponsors, however we cannot accept a talk that appears to be a pitch for your product.</li>
 </ul>
 
-#### Stay Tuned Call for Papers will be opening soon...
-Connect to the [TLV Community Discord](https://discord.gg/fV4cMKQ) for updates or subscribe to our newsletter.
+#### Submit Talk Here
 
-<!-- <ul class="actions">
-	<li><a href="#" class="button special">SUBMIT TALK</a></li>
-</ul> -->
+<ul class="actions">
+	<li><a href="https://www.papercall.io/community-summit-tlv-2020" target="_blank" class="button special">SUBMIT TALK</a></li>
+</ul> 
+
+## Connect to the [TLV Community Discord](https://discord.gg/fV4cMKQ) for updates or subscribe to our newsletter.
 
