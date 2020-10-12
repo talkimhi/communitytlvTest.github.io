@@ -72,7 +72,7 @@ nav-menu: true
     
     <div class="row 25% uniform">
 
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/dan.jpg %}" alt="" /></span><ul class="icons">DAN YELOVITCH | ZIPRECRUITER <br/><li><a href="https://www.linkedin.com/in/dan-yelovitch-15b92036/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/dan.jpg %}" alt="" /></span><ul class="icons">DAN YELOVITCH | VOCA.AI <br/><li><a href="https://www.linkedin.com/in/dan-yelovitch-15b92036/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
 
 		<div class="3u"><span class="image fit"><img src="{% link assets/images/keren.jpg %}" alt="" /></span><ul class="icons">KEREN BARZELAI | MELIO PAYMENTS<br/><li><a href="https://twitter.com/keren404" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/keren-barzelai/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
 
