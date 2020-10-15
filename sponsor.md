@@ -29,7 +29,8 @@ image: assets/images/pic08.jpg
                 <li>Sponsorship is on first come, first served basis (pending the signing of the contract) to select your time slot.</li>
                 <li>We will allow one slot per company, companies interested in more than one slot will be added to a waitlist that will be opened up by order of request.</li>
                 <li>Sponsors will not receive any contact or event lists for GDPR and privacy reasons.</li>
-                </ul>
+                </ul>            
+            <h4>If you have any questions feel free to reach out about sponsorship opportunities using the form below. (<span class="icon fa-smile-o"></span> Yes, it works now!)</h4>
 	</div>
 </section>
 </div>
