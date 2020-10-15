@@ -17,18 +17,12 @@ nav-menu: true
 		</header>
 		<p>Community Summit TLV was born out of the "new normal". While we initially made the decision to opt out of holding our community events this year, namely<strong><a href="{{ site.devopsdays_url }}" target="_blank"> DevOpsDays Tel Aviv</a>, <a href="{{ site.statscraft_url }}" target="_blank">StatsCraft</a>, <a href="{{ site.cloudnative_url }}" target="_blank"> Cloud Native Day Tel Aviv,</a><a href="{{ site.devseccon_url }}" target="_blank"> and DevSecCon Tel Aviv</a></strong>, we realized we simply couldn't go another whole year without seeing our community friends.  So we decided to create Community Summit TLV 2020, a <strong>virtual event</strong> that will aggregate content from these excellent communities into an awesome one-day event.</p>
 		<p> Like all of our community events, there will be an open call for papers, where the format of the day is going to be a keynote to represent each event (four total), and the rest of the day will be ignites to follow each keynote, covering topics in the event's usual scope.</p>
-
 		<p>We debated for some time whether the world needs another virtual event really - but we don't see any other format anytime soon, so we're going to try and keep it as fun, consumable, and light as possible - just to maintain our community connection, even if socially distanced.</p>	
-
 		<ul class="actions">
 			<li><a href="https://www.eventbrite.com/e/community-summit-tlv-2020-tickets-122031594785" class="button default">REGISTER HERE</a></li>
 		</ul>
-
 		<h4 style="text-transform:uppercase; text-align: center;">Learn more about our community events </h4>
 	</div>
-
-
-
 </section>
 
 <!-- Two -->
@@ -93,7 +87,7 @@ nav-menu: true
 
 <!-- Three -->
 <section id="three" class="spotlights">
-	<section>
+		<section>
 		<a href="#" class="image">
 			<img src="{% link assets/images/pic08-2.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -106,7 +100,20 @@ nav-menu: true
 				<p><a href="https://twitter.com/devrel_IL" target="_blank"><span class="icon alt fa-twitter"></span></a>&nbsp;<a href="https://www.facebook.com/groups/DevRel.IL" target="_blank"><span class="icon alt fa-facebook"></span></a></p>
 			</div>
 		</div>
-		</section>
-	</section>
+		</section>	  
+		<section>
+		<div class="box"> 
+			<a href="#discord" id="#discord"><h3>Getting Started with Discord</h3></a>
+			<p>We recommend you join our Discord server to connect with friends from the community, and to receive updates from the event organizers.</p>
+			<ul>
+			<li>Join Discord <strong><a href="https://discord.gg/fV4cMKQ" target="_blank">HERE</a>.</strong></li>
+			<li>It is recommended to use the desktop or mobile app.</li>
+			<li>Once you have joined the server, you will be required to accept the Community Guidelines and Code of Conduct to be able to have access to the rest of the channels. Once you do so, the channels and participation in the community will be available to you. </li>
+			</ul>
+			<p><strong>Looking forward to chatting with you there!</strong></p>
+		</div>			
+		</section>	
+</section>
+</div>
 	
 
