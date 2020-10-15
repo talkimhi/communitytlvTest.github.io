@@ -3,7 +3,6 @@ layout: page
 title: Sponsor
 description: Sponsor the Event
 image: assets/images/pic08.jpg
-permalink: /:title:output_ext
 
 ---
 <div id="main" class="alt">
