@@ -7,16 +7,16 @@ Welcome to the Tel Aviv community site that supports the events [DevOpsDaysTLV](
 
 # What You'll Find
 
-This site was setup to aggregate information from all of these communities, you are also welcome to join the newly launched [Discord Server](https://discord.gg/fV4cMKQ) for our community to chat with your peers from the local community.  If you are planning on visiting in Tel Aviv, or attending one of these events, this would be a great place to get to know folks from the local community.
+This site was setup to aggregate information from all of these communities, but youa are also welcome to join the newly launched [Discord Server](https://discord.gg/fV4cMKQ) for our community to chat with your peers from the local community.  If you are planning on visiting in Tel Aviv, or attending one of these events, this would be a great place to get to know folks from the local community.
 
 
 # Issues
 
-If you would like to report an issue or problem, you can [contact us](https://communitytlv.github.io/#contact) through the form on the site, and we will be sure to get back to you as soon as we can. You are also welcome to message one of the community admins, moderators or event organizers in the Discord community.
+If you would like to report an issure or problem, you can [contact us](https://communitytlv.github.io/#contact) through the form on the site, and we will be sure to get back to you as soon as we can. You are also welcome to message one of the community admins, moderators or event organizers in the Discord community.
 
 
 # Code of Conduct
-We expect all the participants in our community to abide by our [code of conduct](https://communitytlv.github.io/code-of-conduct), and treat all of the community members with respect and kindness.  We will not tolerate harrassment of any kind.
+We expect all the participants in our community to abide by our code of conduct, and treat all of the community members with respect and kindness.  We will not tolerate harrassment of any kind.
 
 
 

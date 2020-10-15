@@ -6,6 +6,9 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
+<h4>CALL FOR PAPERS IS NOW OPEN UNTIL NOVEMBER 12TH | <strong><a href="https://www.papercall.io/community-summit-tlv-2020" target="_blank"> SUBMIT A TALK <span class="icon alt fa-arrow-right"></span></a></strong></h4>
+
+
 In order to bring the community together, even if it's just in a virtual capacity, until we can get to operations as usual (or as close to usual as possible) - we have decided to put together the funnest, mostly easily consumable event possible.  We know that most of us are working from home, juggling family care, and other distractions - and wanted to ensure the event can fit into a realistic day in the new normal.
 
 <h2>What we're looking for</h2>
