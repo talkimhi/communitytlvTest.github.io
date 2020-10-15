@@ -3,7 +3,6 @@ layout: page
 title: Connect
 description: Live Chat and Event Stream
 image: assets/images/pic01.jpg
-permalink: /:title:output_ext
 
 ---
 <div id="main" class="alt">
