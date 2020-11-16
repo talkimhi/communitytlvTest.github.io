@@ -20,11 +20,11 @@ DevOpsDays Tel Aviv</h2>
     <hr class="major" />
     <h4 id="stream"><span class="icon fa-video-camera"></span> Videos</h4>
     <div class="box">
-	<div class="row 33% uniform">
-        <div class="4u"><iframe width="380" height="250" src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavPh74xwoPI23CW-ToU-2oIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>DEVOPSDAYS TEL AVIV 2019 </p></div> 
-        <div class="4u"><iframe width="380" height="250" src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavO1h9DLI6SGNf517QDLa6kM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>DEVOPSDAYS TEL AVIV 2018 </p></div>
-        <div class="4u"><iframe width="380" height="250" src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavMyd5qrMszXYaN6TVRuMrDq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>DEVOPSDAYS TEL AVIV 2017</p></div>
+	<div class="row flex">
+        <div class="4u"><span class="image fit"><iframe src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavPh74xwoPI23CW-ToU-2oIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>DEVOPSDAYS TEL AVIV 2019 </p></span></div> 
+        <div class="4u"><span class="image fit"><iframe src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavO1h9DLI6SGNf517QDLa6kM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>DEVOPSDAYS TEL AVIV 2018 </p></span></div>
+      <div class="4u$"><span class="image fit"><iframe src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavMyd5qrMszXYaN6TVRuMrDq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>DEVOPSDAYS TEL AVIV 2017</p></span></div>
      </div>
 	<div class="row 33% uniform">
         <div class="4u"><iframe width="380" height="250" src="https://www.youtube.com/embed/videoseries?list=PL8tivQAdoavPk7UOjmYjmfSZxBEJZEC9B" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

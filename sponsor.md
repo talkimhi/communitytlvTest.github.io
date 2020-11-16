@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sponsor
+title: Our Sponsors
 description: Sponsor the Event
 image: assets/images/pic08.jpg
 
@@ -11,7 +11,31 @@ image: assets/images/pic08.jpg
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>SPONSOR</h1>
+			<h1>OUR EVENT SPONSORS</h1>
+		</header>
+<!-- Content -->
+<h3 id="content">BIG THANKS TO OUR EVENT SPONSORS WHO MAKE THE EVENT AND COMMUNITY POSSIBLE</h3>
+<hr class="major" />
+			<h4>About our Sponsors</h4>
+<p><a href="https://appsflyer.com" target="_blank"><img src="assets/images/sponsor-logos/AF-ENG-SQ.png" width="150" alt="AppsFlyer Engineering" style="float: left; padding-right: 20px;" ></a><a href="https://appsflyer.com" target="_blank"><strong>AppsFlyer</strong></a> is striving to build a culture focused on delivering engineering excellence and craftsmanship of our suite of products, and providing a stellar developer experience for our product & users. AppsFlyer is built on a robust engineering stack of the latest technologies - from the code and diversity of languages, to real-time operations and big data, alongside DevOps, frontend and UX. Join our team of coding craftspeople to take your career to the next level. </p>
+<hr/>
+
+<p><a href="https://terasky.com" target="_blank"><img src="assets/images/sponsor-logos/terasky-SQ.png" width="150" alt="Terasky" style="float: right; padding-left: 20px;" /></a><a href="https://terasky.com" target="_blank"><strong>TeraSky</strong></a> We Build Platforms for Digital Business and Delivering the Future.
+
+Terasky is a highly skilled & experienced Advanced Technology Solutions Provider with proven capabilities in designing, deploying & supporting complex IT Legacy & Cloud architectures and solutions.</p>
+<hr/>
+
+<p><a href="https://snyk.io" target="_blank"><img src="assets/images/sponsor-logos/snyk-SQ.png" width="150" alt="Snyk" style="float: left; padding-right: 20px;" /></a><a href="https://snyk.io" target="_blank"><strong>Snyk</strong></a> empowers software-driven businesses to develop fast and stay secure.
+Snyk’s unique combination of developer-first tooling and best in class security depth enables businesses to easily build security into their continuous development process.</p>
+<hr/>
+	</div>
+</section>
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>SPONSOR THE EVENT</h2>
 		</header>
 <!-- Content -->
 <h4 id="content">There is only <strong>ONE SPONSORSHIP TIER</strong> for the event, COMMUNITY SPONSOR for $1000 (USD).</h4>
@@ -33,6 +57,8 @@ image: assets/images/pic08.jpg
             <h4>If you have any questions feel free to reach out about sponsorship opportunities using the form below. (<span class="icon fa-smile-o"></span> Yes, it works now!)</h4>
 	</div>
 </section>
+
+
 </div>
 
 
