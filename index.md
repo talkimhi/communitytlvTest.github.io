@@ -8,4 +8,10 @@ author: null
 show_tile: false
 ---
 
-This year we're levelling the playing field, with one sponsorship tier for everyone, check out the details.
+<div class="inner">
+
+<div class="row">
+	<span style="text-transform: uppercase;"><h3></h3>
+		<p><a href="https://appsflyer.com" target="_blank"><img src="assets/images/sponsor-logos/AF-ENG-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://terasky.com" target="_blank"><img src="assets/images/sponsor-logos/terasky-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://snyk.io" target="_blank"><img src="assets/images/sponsor-logos/snyk-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://www.nextinsurance.com/" target="_blank"><img src="assets/images/sponsor-logos/next-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://monday.com/" target="_blank"><img src="assets/images/sponsor-logos/monday-SQ.png" width="150"></a></p></span>
+</div>
+</div>
