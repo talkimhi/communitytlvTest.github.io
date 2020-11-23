@@ -58,6 +58,10 @@ Snyk’s unique combination of developer-first tooling and best in class securit
 </p>
 <hr/>
 
+<p><a href="https://www.couchbase.com" target="_blank"><img src="assets/images/sponsor-logos/couchbase-SQ.png" width="150" alt="Aerospike" style="float: right; padding-left: 20px;" /></a><a href="https://www.couchbase.com" target="_blank"><strong>Couchbase</strong></a>   is an award-winning distributed NoSQL cloud database. It delivers unmatched versatility, performance, scalability, and financial value across cloud, on-premises, hybrid, distributed cloud, and edge computing deployments.
+<h4> <a href="https://www.couchbase.com/careers" target="_blank">We're hiring!</a></h4></p>
+<hr/>
+
 </div>
 	</div>
 </section>
