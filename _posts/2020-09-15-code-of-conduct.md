@@ -19,4 +19,4 @@ Staff are identified with a separate role in the online forum (event organizer o
 
 We expect participants to follow these rules in all community-related media, including Discord, YouTube, Twitter, or any other online presence. 
 
-This Code of Conduct is based on https://confcodeofconduct.com/.
+This Code of Conduct is based on [https://confcodeofconduct.com/](https://confcodeofconduct.com/).
