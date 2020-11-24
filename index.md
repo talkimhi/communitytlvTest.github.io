@@ -421,7 +421,7 @@ show_tile: false
  <br/><hr class="major"><br/>
 
 <div class="row">
-<img src="assets/images/DevRel-il-SQ.png" alt="DevRel IL" width="140" />
+<img src="assets/images/devrel-il-SQ.png" alt="DevRel IL" width="140" />
 <br />
 <h3>Mini-Track Speakers - DevRel IL</h3>
 </div>
