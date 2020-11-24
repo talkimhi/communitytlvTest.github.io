@@ -18,8 +18,10 @@
 
 	// Ensures page width is always >=320px.
 		@include breakpoint(xsmall) {
-			html, body {
+			html, body, ul, strong, h1, h2, h3, h4, h5, h6 {
 				min-width: 320px;
+				font-size: 50%;
+				
 			}
 		}
 
@@ -102,7 +104,7 @@
 		  pointer-events: auto;
 		}
 		&>div {
-		  width: 600px;
+		  width: 60%;
 		  position: absolute;
 		  top: 50%;
 		  left: 50%;
@@ -164,5 +166,7 @@
 		  padding-right: 0.3em;
 		}
 	  }
+
+	  
 	  
 	  
