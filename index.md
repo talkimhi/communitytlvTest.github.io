@@ -497,7 +497,26 @@ show_tile: false
         </div>   
 
         </div>
+        
 
+        <div class="2u">
+        <a href="#open-modal-34"><img src="assets/images/speakers/nur.png" alt="Nur Lee Harel - Eventhandler" width="200" /></a>
+        <ul class="icons">NUR LEE HAREL <br/> EVENTHANDLER <br/>
+        <li><a href="https://twitter.com/HarelNur/" target="_blank" class="icon fa-twitter"></a></li>
+        <li><a href="https://www.linkedin.com/in/nur-lee-harel/"  target="_blank" class="icon fa-linkedin"></a></li>
+        </ul>
+
+        <div id="open-modal-34" class="modal-window">
+        <div><a href="#33" title="Close" class="modal-close">X</a>
+        <h4 style="text-transform: uppercase;">BREAKOUT SESSION #1 - How to Write Your Professional Bio</h4>
+        <div><small>Sometimes during our careers, we are asked to write something about ourselves. It can be an awkward task and most of the time we have no idea what to include, how to sell ourselves, how to make it relevant etc. In this hands-on session, you will learn how to create and improve your professional bio.</small></div>
+
+        <h4 style="text-transform: uppercase;">BREAKOUT SESSION #2 - Useful Tips on Improving Your Tech Talk Proposal (CFP)</h4>
+        <div><small>In this hands-on session, I will share some useful tips on how to improve your talk proposal and increase the chances of getting your talk selected, as learned from my experience as a producer of various tech conferences in the past 5 years, such as AngularUP, React Next, Node.TLV and React Week NYC.</small></div>
+        </div>
+        </div>   
+
+        </div>
 
         <!-- <div class="2u"><img src="assets/images/speakers/corey.png" alt="" width="200" /><ul class="icons">COREY QUINN | DUCKBILL GROUP <br/><li><a href="https://twitter.com/nukemberg" target="_blank" target="_blank" class="icon fa-twitter"></a></li><li><a href="https://www.linkedin.com/in/nukemberg/"  target="_blank" class="icon fa-linkedin"></a></li><li><a href="https://github.com/nukemberg" target="_blank" class="icon fa-github"></a></li></ul></div>
 
