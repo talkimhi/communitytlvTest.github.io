@@ -52,6 +52,7 @@
 		margin-right: 0.2rem;
 		cursor: pointer;
 	  background: #90CAF9;
+	  color: #2a2f4a;
 	  font-weight: bold;
 	  transition: background ease 0.2s;
 	}
@@ -68,6 +69,7 @@
 	}
 	.tabs input[type="radio"]:checked + label {
 		background: #2a2f4a;
+		
 	}
 	.tabs input[type="radio"]:checked + label + .tab {
 		display: block;
