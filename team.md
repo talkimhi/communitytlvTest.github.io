@@ -25,8 +25,8 @@ nav-menu: true
 <div class="box" style="background-color: #2a2f4a;" >
 	<div>09:40 AM - 10:20 AM IST</div>
 	<div><h3><span style="color: turquoise">Keynote</span>
-	| The value of innovation in challenging times<span style="color: turquoise"> // Einat Orr</span></h3></div>
-	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate. </p>
+	| Placeholer title of the talk<span style="color: turquoise"> // Einat Orr</span></h3></div>
+	<div><p>During challenging times, I need to use placeholders. History shows that people that find the right balance between placeholders and real data have a higher probability of long-term success. Come learn from me. </p>
 	</div>
 </div>
 
