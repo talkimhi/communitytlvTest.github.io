@@ -32,69 +32,8 @@ nav-menu: true
 
 <!-- Image -->
 <div class="box alt">
-	<div class="row 25% uniform">
 
-        <div class="3u"><span class="image fit"><img src="{% link assets/images/shar.jpg %}" alt="" /></span>
-        <ul class="icons">SHARONE ZITZMAN | SNYK <br/><li><a href="https://twitter.com/shar1z" target="_blank" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/sharonez/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/shar1z" target="_blank" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/avishai.jpg %}" alt="" /></span><ul class="icons">AVISHAI ISH-SHALOM | SCYLLADB <br/><li><a href="https://twitter.com/nukemberg" target="_blank" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/nukemberg/"  target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/nukemberg" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/julia.jpg %}" alt="" /></span><ul class="icons">JULIA VOLVOSKY | LAWGEEX <br/><li><a href="https://twitter.com/JuliaVolvo" target="_blank"  class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/julia-shub-72418842/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/Juliavol" target="_blank" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-       <div class="3u"><span class="image fit"><img src="{% link assets/images/jeremy.jpg %}" alt="" /></span><ul class="icons">JEREMY HESS | CLOUDSHARE <br/><li><a href="https://twitter.com/jphess2" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/jeremyphess/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/yeshess" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-     </div>
-    <div class="row 25% uniform">
-
-		<!-- Break -->
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/gil.jpg %}" alt="" /></span><ul class="icons">GIL ZELLNER | APPSFLYER <br/><li><a href="https://twitter.com/Heathenaspargus" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/gilzellner/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/gilzellner/sessions-and-bio" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/sam.jpg %}" alt="" /></span><ul class="icons">SAM HEPBURN | SNYK <br/><li><a href="https://twitter.com/SammyHep" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/sammyhepburn/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/andrei.jpg %}" alt="" /></span><ul class="icons">ANDREI BURD | SEATGEEK <br/><li><a href="https://twitter.com/burdandrei" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/burdandrei/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/burdandrei" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-        <div class="3u"><span class="image fit"><img src="{% link assets/images/erik.jpg %}" alt="" /></span><ul class="icons"> ERIK ZAADI | SALTO <br/><li><a href="https://twitter.com/erikzaadi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/erikzaadi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/erikzaadi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-    </div>
-
-		<!-- Break -->
-    <div class="row 25% uniform">
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/elizabeth.jpg %}" alt="" /></span><ul class="icons"> ELIZABETH TSIRELSON | JOVIANX <br/><li><a href="https://www.linkedin.com/in/elizabeth-tsirelson/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/tal.jpg %}" alt="" /></span><ul class="icons">TAL KIMHI | BIG PANDA <br/><li><a href="https://twitter.com/talkimhi" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/talkimhi/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/talkimhi" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/hila.jpg %}" alt="" /></span><ul class="icons">HILA FISH | PALO ALTO NETWORKS<br/><li><a href="https://www.linkedin.com/in/hila-fish-863949a/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/hilafish" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-        <div class="3u"><span class="image fit"><img src="{% link assets/images/nati.jpg %}" alt="" /></span><ul class="icons"> NATI COHEN | NaN <br/><li><a href="https://twitter.com/nocoot" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/natict/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/natict" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-    </div>
-
-        <!-- Break -->
-    
-    <div class="row 25% uniform">
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/dan.jpg %}" alt="" /></span><ul class="icons">DAN YELOVITCH | VOCA.AI <br/><li><a href="https://www.linkedin.com/in/dan-yelovitch-15b92036/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/keren.jpg %}" alt="" /></span><ul class="icons">KEREN BARZELAI | MELIO PAYMENTS<br/><li><a href="https://twitter.com/keren404" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/keren-barzelai/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/robert.jpg %}" alt="" /></span><ul class="icons"> ROBERT BARRON | IBM <br/><li><a href="https://twitter.com/flyingbarron" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/flyingbarron/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/flyingbarron" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-        <div class="3u"><span class="image fit"><img src="{% link assets/images/dotan.jpg %}" alt="" /></span><ul class="icons">DOTAN HOROVITS | LOGZ.IO <br/><li><a href="https://twitter.com/horovits" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/horovits/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/horovits" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-    </div>
-        <!-- Break -->
-    <div class="row 25% uniform">
-
-        <div class="3u"><span class="image fit"><img src="{% link assets/images/itay.jpg %}" alt="" /></span><ul class="icons">ITAY SHAKURY | AQUA SECURITY <br/><li><a href="https://twitter.com/itaysk" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/itaysk/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/itaysk" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/ofer.jpg %}" alt="" /></span><ul class="icons">OFER SCHREIBER | LOGZ.IO<br/><li><a href="https://twitter.com/oschreib" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/oferschreiber/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/oschreib" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-		<div class="3u"><span class="image fit"><img src="{% link assets/images/simon.jpg %}" alt="" /></span><ul class="icons">SIMON MAPLE | SNYK <br/><li><a href="https://twitter.com/sjmaple" target="_blank" class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/simonmaple/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li><li><a href="https://github.com/sjmaple" target="_blank" class="icon fa-github"><span class="label"></span></a></li></ul></div>
-
-        <div class="3u"><span class="image fit"><img src="{% link assets/images/elena.jpg %}" alt="" /></span><ul class="icons">ELENA LEVI | APPSFLYER <br/><li><a href="https://twitter.com/elenalevii" target="_blank"  class="icon fa-twitter"><span class="label"></span></a></li><li><a href="https://www.linkedin.com/in/elena-levi-data/" target="_blank" class="icon fa-linkedin"><span class="label"></span></a></li></ul></div>
-	</div>
-    </div>
-
-
+<div class="event-list-item event-list-single-item" data-analytics="VGhlIHZhbHVlIG9mIGlubm92YXRpb24gaW4gY2hhbGxlbmdpbmcgdGltZXM="><div class="event-list-item__container"><div class="event-list-item__details-wrapper"><div class="event-list-item__scheduling">Dec 1, 2020 | 7:00 AM - 7:20 AM IST</div><div class="event-list-item__details"><a href="/media/1_xkgqfuxd" style="pointer-events: none;"><h5 class="event-list-item__name"><div class="truncateManager ">The value of innovation in challenging times</div></h5></a></div><div class="truncateManager event-list-item__description">During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate.</div></div><div class="event-list-item__actions-wrapper"><div class="event-list-item__action"><div class="event-list-item__join-button btn-group"><button id="EventListItemCalendarToggleBtn" data-toggle="dropdown" class="btn dropdown-toggle btn-borderless-eventplatform" aria-haspopup="true" aria-expanded="false" aria-controls="EventListItemCalendarToggleMenu" aria-label="Add To Calendar"><i class="kms-react-icon eventplatform-calendar" aria-hidden="true"></i>Add To Calendar</button><ul class="dropdown-menu pull-right" id="EventListItemCalendarToggleMenu" role="menu" aria-labelledby="EventListItemCalendarToggleBtn"><li role="presentation"><a role="button" tabindex="0">Outlook Calendar</a></li><li role="presentation"><a role="button" tabindex="0">Google Calendar</a></li></ul></div><div class="event-list-item-tags event-list-item__tags"><span class="event-list-item-tag" role="listitem"><span class="tag" data-reactroot="">Innovation</span></span><span class="event-list-item-tag" role="listitem"><span class="tag" data-reactroot="">Lightning&nbsp;Talk</span></span></div></div></div></div><a href="/media/1_xkgqfuxd" style="pointer-events: none;"><img class="event-list-item__thumbnail" src="https://cfvod.kaltura.com/p/3047232/sp/304723200/thumbnail/entry_id/1_xkgqfuxd/version/100001/width/379/height/213/type/3" alt="The value of innovation in challenging times"></a></div>
 
 
 
