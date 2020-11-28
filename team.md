@@ -38,7 +38,7 @@ nav-menu: true
 
 <div class="box" style="background-color: #2a2f4a;" >
 	<div>09:40 AM - 10:20 AM IST</div>
-	<div><h3><span style="color: burlywood">Ignites</span></h3></div>
+	<div><h3><span style="color: burlywood">DevOps Ignites</span></h3></div>
 	<div>
 		<p class="box">Pregnancy - Nature's CI/CD <span style="color: burlywood">// Julia Shub</span></p>
 		<p class="box">Waste-Oriented, Hunch-Based Web Architecture <span style="color: burlywood">// Michael Zion</span></p>
@@ -46,7 +46,7 @@ nav-menu: true
 		<p class="box">Resilience Engineering - a Primer <span style="color: burlywood"> // Anton Weiss</span></p>
 		<p class="box">Checking the pulse on DevOps and Observability <span style="color: burlywood"> // Dotan Horovits</span></p>
 		<p class="box">The Devil's DevOps <span style="color: burlywood">// Heidi Waterhouse</span></p>
-		<p class="box">Monitoring People - An Engineering approach to understanding human KPIs <span style="color: burlywood">// Erik Zaadi</span><br>
+		<p class="box"><h4>Monitoring People - An Engineering approach to understanding human KPIs <span style="color: burlywood">// Erik Zaadi</span></h4>
 		Feel like understanding systems is easier and more logical than people?
 Let's challenge that and see how engineering practices such as monitoring and CI can be correlated to understanding and improving humans, you know, those illogical chaotic beings, which are sooooo much different than production.</p>
 	</div>	
