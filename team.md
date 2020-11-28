@@ -68,7 +68,7 @@ We went and asked this and much more to nearly 1000 engineers across the globe, 
 		<div class="box"><h4>The Devil's DevOps
 		<span style="color: burlywood">// Heidi Waterhouse</span></h4>
 		<p>An Ignite that plays off Ambrose Bierce's The Devil's Dictionary to present satirical and painfully true definitions of words you hear at conferences all the time.</p>
-	</div></div>
+	</div>
 		<div class="box"><h4>Monitoring People - An Engineering approach to understanding human KPIs <span style="color: burlywood">// Erik Zaadi</span></h4>
 		<p>Feel like understanding systems is easier and more logical than people?
 Let's challenge that and see how engineering practices such as monitoring and CI can be correlated to understanding and improving humans, you know, those illogical chaotic beings, which are sooooo much different than production.</p>
