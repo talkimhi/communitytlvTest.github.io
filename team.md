@@ -24,11 +24,11 @@ nav-menu: true
 
 <div class="box" style="background-color: #2a2f4a;" >
 	<div>09:40 AM - 10:20 AM IST</div>
-	<div><h3><span style="color: turquoise">Keynote |</span>
-	 The value of innovation in challenging times</h3></div>
+	<div><h3><span style="color: turquoise">Keynote</span>
+	| The value of innovation in challenging times</h3></div>
 	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate. </p>
 	</div>
-	<div>Speakers: Einat Orr</div>
+	<div>Speaker: Einat Orr</div>
 </div>
 
 <div class="box" style="background-color: black;">
@@ -38,16 +38,20 @@ nav-menu: true
 
 <div class="box" style="background-color: #2a2f4a;" >
 	<div>09:40 AM - 10:20 AM IST</div>
-	<div><h3><span style="color: burlywood">Ignites |</span>
-	 The value of innovation in challenging times</h3></div>
-	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate. </p>
-	</div>
-	<div>Speakers: Einat Orr</div>
+	<div><h3><span style="color: burlywood">Ignites</span></h3></div>
+	<div>
+		<p>Pregnancy - Nature's CI/CD // Julia Shub</p>
+		<p>Waste-Oriented, Hunch-Based Web Architecture // Michael Zion</p>
+		<p>Obviously a major malfunction... Lessons 35 years after the Challenger Disaster // Robert Barron</p>
+		<p>Resilience Engineering - a Primer // Anton Weiss</p>
+		<p>Checking the pulse on DevOps and Observability // Dotan Horovits</p>
+		<p>The Devil's DevOps // Heidi Waterhouse</p>
+		<p>Monitoring People - An Engineering approach to understanding human KPIs // Erik Zaadi</p>
 </div>
 
 <div class="box" style="background-color: #2a2f4a;" >
 	<div>09:40 AM - 10:20 AM IST</div>
-	<div><h3><span style="color: turquoise">Keynote |</span>
+	<div><h3><span style="color: turquoise">Keynote</span>
 	 The value of innovation in challenging times</h3></div>
 	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate. </p>
 	</div>
