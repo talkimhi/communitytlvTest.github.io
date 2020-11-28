@@ -72,7 +72,8 @@ We went and asked this and much more to nearly 1000 engineers across the globe, 
 		<div class="box"><h4>Monitoring People - An Engineering approach to understanding human KPIs <span style="color: burlywood">// Erik Zaadi</span></h4>
 		<p>Feel like understanding systems is easier and more logical than people?
 Let's challenge that and see how engineering practices such as monitoring and CI can be correlated to understanding and improving humans, you know, those illogical chaotic beings, which are sooooo much different than production.</p>
-	</div>	
+	</div>
+</div>	
 
 <div class="box" style="background-color: #2a2f4a;" >
 	<div>09:40 AM - 10:20 AM IST</div>
