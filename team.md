@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team
-description: 'THE TEAM BEHIND THE AWESOME COMMUNITY'
+title: Agenda
+description: 'CommunityTLV 2020 Agenda'
 image: assets/images/pic02.jpg
 nav-menu: true
 ---
@@ -85,7 +85,6 @@ Let's challenge that and see how engineering practices such as monitoring and CI
 	 The value of innovation in challenging times</h3></div>
 	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate. </p>
 	</div>
-	<div>Speakers: Einat Orr</div>
 </div>
 
 <div class="box" style="background-color: #2a2f4a;" >
@@ -94,7 +93,6 @@ Let's challenge that and see how engineering practices such as monitoring and CI
 	 The value of innovation in challenging times</h3></div>
 	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate. </p>
 	</div>
-	<div>Speakers: Einat Orr</div>
 </div>
 
 <div class="box" style="background-color: #2a2f4a;" >
@@ -103,7 +101,6 @@ Let's challenge that and see how engineering practices such as monitoring and CI
 	 The value of innovation in challenging times</h3></div>
 	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate. </p>
 	</div>
-	<div>Speakers: Einat Orr</div>
 </div>
 
 <div class="box" style="background-color: #2a2f4a;" >
@@ -112,5 +109,4 @@ Let's challenge that and see how engineering practices such as monitoring and CI
 	 The value of innovation in challenging times</h3></div>
 	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate. </p>
 	</div>
-	<div>Speakers: Einat Orr</div>
 </div>		
