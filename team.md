@@ -33,13 +33,13 @@ nav-menu: true
 
 <!-- Image -->
 <div class="box" style="background-color: #2a2f4a;">
-	<div>7:00 AM - 7:20 AM IST </div>
+	<div>09:30 AM - 09:40 AM IST </div>
 	<div><h3>Opening Words</h3></div>
 	</div>
 
 <div class="box" style="background-color: #2a2f4a;" >
-	<div>7:00 AM - 7:20 AM IST</div>
-	<div><h3>Keynote | The value of innovation in challenging times</h3></div>
+	<div>09:40 AM - 10:20 AM IST</div>
+	<div><h3><span style="color: yellow">Keynote</span> | The value of innovation in challenging times</h3></div>
 	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate.</p>
 	</div>
 
