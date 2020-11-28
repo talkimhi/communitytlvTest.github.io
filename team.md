@@ -23,7 +23,6 @@ nav-menu: true
 		<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate.</p>
 		</div>
 	</div>
-</div>
 
 <div class="box">
 	<div class="event-list-item__scheduling">Dec 1, 2020 | 7:00 AM - 7:20 AM IST</div>
@@ -31,7 +30,6 @@ nav-menu: true
 		<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate.</p>
 		</div>
 	</div>
-</div>
 
 <div class="box">
 	<div class="event-list-item__scheduling">Dec 1, 2020 | 7:00 AM - 7:20 AM IST</div>
@@ -39,7 +37,6 @@ nav-menu: true
 		<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate.</p>
 		</div>
 	</div>
-</div>
 
 <div class="box">
 	<div class="event-list-item__scheduling">Dec 1, 2020 | 7:00 AM - 7:20 AM IST</div>
@@ -47,7 +44,6 @@ nav-menu: true
 		<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate.</p>
 		</div>
 	</div>
-</div>
 
 <div class="box">
 	<div class="event-list-item__scheduling">Dec 1, 2020 | 7:00 AM - 7:20 AM IST</div>
