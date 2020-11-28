@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>THE TEAM BEHIND THE AWESOME COMMUNITY</h1>
+			<h1>Agenda</h1>
 		</header>
 
 <!-- Content -->
