@@ -40,13 +40,13 @@ nav-menu: true
 	<div>09:40 AM - 10:20 AM IST</div>
 	<div><h3><span style="color: burlywood">Ignites</span></h3></div>
 	<div>
-		<p>Pregnancy - Nature's CI/CD <span style="color: burlywood">// Julia Shub</span></p>
-		<p>Waste-Oriented, Hunch-Based Web Architecture <span style="color: burlywood">// Michael Zion</span></p>
-		<p>Obviously a major malfunction... Lessons 35 years after the Challenger Disaster <span style="color: burlywood"> // Robert Barron</span></p>
-		<p>Resilience Engineering - a Primer <span style="color: burlywood"> // Anton Weiss</span></p>
-		<p>Checking the pulse on DevOps and Observability <span style="color: burlywood"> // Dotan Horovits</span></p>
-		<p>The Devil's DevOps <span style="color: burlywood">// Heidi Waterhouse</span></p>
-		<p>Monitoring People - An Engineering approach to understanding human KPIs <span style="color: burlywood">// Erik Zaadi</span></p>
+		<p class="box">Pregnancy - Nature's CI/CD <span style="color: burlywood">// Julia Shub</span></p>
+		<p class="box">Waste-Oriented, Hunch-Based Web Architecture <span style="color: burlywood">// Michael Zion</span></p>
+		<p class="box">Obviously a major malfunction... Lessons 35 years after the Challenger Disaster <span style="color: burlywood"> // Robert Barron</span></p>
+		<p class="box">Resilience Engineering - a Primer <span style="color: burlywood"> // Anton Weiss</span></p>
+		<p class="box">Checking the pulse on DevOps and Observability <span style="color: burlywood"> // Dotan Horovits</span></p>
+		<p class="box">The Devil's DevOps <span style="color: burlywood">// Heidi Waterhouse</span></p>
+		<p class="box">Monitoring People - An Engineering approach to understanding human KPIs <span style="color: burlywood">// Erik Zaadi</span></p>
 	</div>	
 </div>
 
