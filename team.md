@@ -33,22 +33,22 @@ nav-menu: true
 
 <!-- Image -->
 <div class="box" style="background-color: #2a2f4a;">
-		<div>7:00 AM - 7:20 AM IST | Tal Kimhi, Sharone Zitzman </div>
-		<div><h3>The value of innovation in challenging times</h3></div>
-		
-		<div> <p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate.</p>
-		</div>
-<button class="button> DevOpsDays</button>
+	<div>7:00 AM - 7:20 AM IST </div>
+	<div><h3>Opening Words</h3></div>
 	</div>
 
 <div class="box" style="background-color: #2a2f4a;" >
-	<div class="event-list-item__scheduling">Dec 1, 2020 | 7:00 AM - 7:20 AM IST</div>
-		<div class="event-list-item__details"><h3>The value of innovation in challenging times</h3></div>
-		<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate.</p>
-		</div>
+	<div>7:00 AM - 7:20 AM IST</div>
+	<div><h3>Keynote | The value of innovation in challenging times</h3></div>
+	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate.</p>
 	</div>
 
-<div class="box" style="background-color: black;">
+	<div>Speakers: Einat Orr</div>
+
+
+	</div>
+
+<div class="box" style="background-color: #2a2f4a;">
 	<div class="event-list-item__scheduling">Dec 1, 2020 | 7:00 AM - 7:20 AM IST</div>
 		<div class="event-list-item__details"><h3>The value of innovation in challenging times</h3></div>
 		<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate.</p>
