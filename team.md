@@ -74,6 +74,11 @@ Let's challenge that and see how engineering practices such as monitoring and CI
 	</div>
 </div>	
 
+<div class="box" style="background-color: black;">
+	<div>10:20 AM - 10:30 AM IST </div>
+	<div><h3>BREAK</h3></div>
+</div>
+
 <div class="box" style="background-color: #2a2f4a;" >
 	<div>09:40 AM - 10:20 AM IST</div>
 	<div><h3><span style="color: turquoise">Keynote</span>
