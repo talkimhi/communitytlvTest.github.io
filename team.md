@@ -6,21 +6,6 @@ image: assets/images/pic02.jpg
 nav-menu: true
 ---
 
-<style>
-.button {
-  background-color: #ddd;
-  border: none;
-  color: black;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 16px;
-}
-</style>
-
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -46,9 +31,14 @@ nav-menu: true
 	<div>Speakers: Einat Orr</div>
 </div>
 
+<div class="box" style="background-color: black;">
+	<div>10:20 AM - 10:30 AM IST </div>
+	<div><h3>BREAK</h3></div>
+</div>
+
 <div class="box" style="background-color: #2a2f4a;" >
 	<div>09:40 AM - 10:20 AM IST</div>
-	<div><h3><span style="color: turquoise">Keynote |</span>
+	<div><h3><span style="color: burlywood">Ignites |</span>
 	 The value of innovation in challenging times</h3></div>
 	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate. </p>
 	</div>
