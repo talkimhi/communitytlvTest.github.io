@@ -75,12 +75,12 @@ Let's challenge that and see how engineering practices such as monitoring and CI
 </div>	
 
 <div class="box" style="background-color: black;">
-	<div>10:20 AM - 10:30 AM IST </div>
+	<div>11:10 AM - 11:30 AM IST </div>
 	<div><h3>BREAK</h3></div>
 </div>
 
 <div class="box" style="background-color: #2a2f4a;" >
-	<div>09:40 AM - 10:20 AM IST</div>
+	<div>11:30 AM - 12:10 PM IST</div>
 	<div><h3><span style="color: turquoise">Keynote</span>
 	 The value of innovation in challenging times</h3></div>
 	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate. </p>
@@ -89,7 +89,7 @@ Let's challenge that and see how engineering practices such as monitoring and CI
 </div>
 
 <div class="box" style="background-color: #2a2f4a;" >
-	<div>09:40 AM - 10:20 AM IST</div>
+	<div>12:20 AM - 10:20 AM IST</div>
 	<div><h3><span style="color: turquoise">Keynote |</span>
 	 The value of innovation in challenging times</h3></div>
 	<div><p>During challenging times, many companies pause on innovation. History shows that companies that find the right balance between efficiency and innovation have a higher probability of long-term success. Come learn how AWS can help your company innovate. </p>
